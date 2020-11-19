@@ -1,5 +1,6 @@
 ### README ####
 
+#### This is a pytorch implementation of the Transformer Deep Learning model for langauage translation####
 pip install -r requirements.txt with pyton = 3.6
 if spacy doesnot load en and fr then explicity install 
 * python -m spacy download en
